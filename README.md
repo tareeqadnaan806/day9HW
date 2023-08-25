@@ -1,6 +1,6 @@
 # day9HW
 
-hosted link: 
+hosted link: https://tareeqadnaan806.github.io/day9HW/
 
 this is my day9 homework assignment in this assignment we have to give an input and a button and whenever we enter text in an ainput field and when we click on button the text in that field should display below
 
